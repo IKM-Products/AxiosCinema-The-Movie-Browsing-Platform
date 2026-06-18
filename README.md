@@ -4,7 +4,7 @@
 <img width="1920" height="922" alt="Screenshot (323)" src="https://github.com/user-attachments/assets/fd36efce-e069-46c2-92b5-630766b0b493" />
 
 
-AxiosCinema is a modern movie browsing platform built with React, TypeScript, Tailwind CSS, Firebase (Authentication and Cloud Firestore), and TMDB API. The application allows users to explore trending and popular movies, search for titles, browse movies by categories, view detailed movie information, and create a personalized movie queue.
+**AxiosCinema** is a modern movie browsing platform built with React, TypeScript, Tailwind CSS, Firebase (Authentication and Cloud Firestore), and TMDB API. The application allows users to explore trending and popular movies, search for titles, browse movies by categories, view detailed movie information, and create a personalized movie queue.
 
 ## 🚀 Features
 
